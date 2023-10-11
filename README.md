@@ -28,8 +28,8 @@ This project was developed with the following technologies:<br>
 It is a page to show how to use the iframe's technology.<br>
 É uma página para mostrar como utilizar a tecnologia do iframe.
 
-- [Access the finished project online](https://alanovictor.github.io/Hora-Tempo/)<br>
-- [Acesse o projeto finalizado online](https://alanovictor.github.io/Hora-Tempo/)
+- [Access the finished project online](https://alanovictor.github.io/SocialPhone/)<br>
+- [Acesse o projeto finalizado online](https://alanovictor.github.io/SocialPhone/)
 
 
 ## :memo: License-Licença
